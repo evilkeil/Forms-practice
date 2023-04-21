@@ -15,3 +15,7 @@ form{
 input{
     font-size: inherit;
 }
+
+.food{
+    display: inline-block;
+}
