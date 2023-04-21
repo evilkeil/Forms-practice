@@ -19,3 +19,7 @@ input{
 .food{
     display: inline-block;
 }
+
+.gender{
+    margin-left: 1.5rem;
+}
